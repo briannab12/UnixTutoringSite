@@ -10,7 +10,7 @@
 		<div class="wrapper" id ="header">
 			<header>
 				<figure class="logo">
-					<a href="/~unix4ux/"><img src="<?php echo $path;?>assets/images/logo.png" alt="Logo"/></a>
+					<a href="/~bab7607/ISTE240/Group/index.php"><img src="<?php echo $path;?>assets/images/logo.png" alt="Logo"/></a>
 				</figure>
                 <div id="search">
                     <script>

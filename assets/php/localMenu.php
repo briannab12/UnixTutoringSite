@@ -53,8 +53,8 @@
 	</nav>
 </div>
 <div id="nav-trigger">
-	<img onclick="mobileMenuHome()" src="<?php echo $path;?>assets/images/home_icon.png" alt="Logo" />
-	<img onclick="mobileMenuMenu()" src="<?php echo $path;?>assets/images/hamburger.png" alt="Logo" />
-	<img onclick="mobileMenuIndex()" src="<?php echo $path;?>assets/images/tutorial_icon.png" alt="Logo" />
-	<img onclick="mobileMenuAbout()" src="<?php echo $path;?>assets/images/about_us_icon.png" alt="Logo" />
+	<img onclick="mobileMenuHome()" src="/~bab7607/ISTE240/Group/assets/images/home_icon.png" alt="Logo" />
+	<img onclick="mobileMenuMenu()" src="/~bab7607/ISTE240/Group/assets/images/hamburger.png" alt="Logo" />
+	<img onclick="mobileMenuIndex()" src="/~bab7607/ISTE240/Group/assets/images/tutorial_icon.png" alt="Logo" />
+	<img onclick="mobileMenuAbout()" src="/~bab7607/ISTE240/Group/assets/images/about_us_icon.png" alt="Logo" />
 </div>

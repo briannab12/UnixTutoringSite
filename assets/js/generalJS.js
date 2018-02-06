@@ -94,7 +94,7 @@ window.onload = function() {
 
 /********** MOBILE MENU CLICK EVENTS **************/
 function mobileMenuHome(){
-	location.href = "http://kelvin.ist.rit.edu/~unix4ux/";
+	location.href = "http://serenity.ist.rit.edu/~bab7607/ISTE240/Group/index.php";
 }
 
 function mobileMenuMenu(){
@@ -102,9 +102,9 @@ function mobileMenuMenu(){
 }
 
 function mobileMenuIndex(){
-	location.href = "http://kelvin.ist.rit.edu/~unix4ux////commandIndex/searchByFunctionality.php";
+	location.href = "http://serenity.ist.rit.edu/~bab7607/ISTE240/Group/commandIndex/searchByFunctionality.php";
 }
 
 function mobileMenuAbout(){
-	location.href = "http://kelvin.ist.rit.edu/~unix4ux////aboutUs.php";
+	location.href = "http://serenity.ist.rit.edu/~bab7607/ISTE240/Group/aboutUs.php";
 }
